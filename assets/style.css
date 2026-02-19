@@ -70,7 +70,7 @@ h1 {
   padding-top: 80px;
 
   
-  background: url("/assets/img/db2.png") center no-repeat;
+  background: url("assets/img/db2.png") center no-repeat;
   background-size: cover;
 
   width: 100%;
@@ -485,3 +485,4 @@ h1 {
   background: rgba(59, 130, 246, 0.15);
   border-color: rgba(59, 130, 246, 0.35);
 }
+
